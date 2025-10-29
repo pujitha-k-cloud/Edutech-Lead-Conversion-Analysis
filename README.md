@@ -25,7 +25,6 @@ The goal was to produce a cleaned dataset and extract meaningful business insigh
 Result: a **fully clean dataset (132 rows × 15 columns)** ready for analysis.
 
 ---
-📄 [Download Project Report (PDF)]"C:\Users\PC\Downloads\task.ipynb"
 
 ## Exploratory Data Analysis (EDA)
 ### Conversion Rate by Region
@@ -56,4 +55,4 @@ Result: a **fully clean dataset (132 rows × 15 columns)** ready for analysis.
 - Practiced exploratory analysis using Pandas groupby, aggregation, and visualization.  
 - Translated data results into clear business insights and recommendations.
 
----
+
