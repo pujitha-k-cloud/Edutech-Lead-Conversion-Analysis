@@ -25,6 +25,7 @@ The goal was to produce a cleaned dataset and extract meaningful business insigh
 Result: a **fully clean dataset (132 rows × 15 columns)** ready for analysis.
 
 ---
+📄 [Download Project Report (PDF)](docs/Edutech_Lead_Analysis_Report.pdf) 
 
 ## Exploratory Data Analysis (EDA)
 ### Conversion Rate by Region
